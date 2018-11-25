@@ -1,0 +1,25 @@
+/* CSS Document */
+.regla1{
+	background-color:red;
+	color:#CCC;
+	font-weight:bold;
+	padding-left:100px;
+	margin-right:300px;
+	border-color:#C0C;
+	border-top: dashed;
+	position: absolute;
+	/*top: 100px¨*/;
+	left: 200px;
+	z-index: 0;
+}
+#regla2{
+	background-color:blue;
+	color:#CCC;
+	font-weight:bold;
+	padding-left:200px;
+	margin-right:500px;
+	position: absolute;
+	left:400px;
+	z-index:1;
+	
+}
