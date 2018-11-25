@@ -1,0 +1,124 @@
+/* CSS Document */
+
+#tabla{
+	width:100%;
+	display:table;
+}
+
+#fila1 {
+	width:100%;
+	display:table-row;
+}
+
+#fila2{
+	width:100%;
+	display:table-row;
+}
+
+#fila3{
+	width:100%;
+	display:table-row;
+}
+#f1c1{
+	width:30%;
+	display:table-cell;
+	background-color:#CC0;
+}
+
+#f1c2{
+	width:30%;
+	display:table-cell;
+	background-color:#366;
+}
+
+
+#f1c3{
+	width:30%;
+	display:table-cell;
+	background-color:#666;
+}
+
+#f2c1{
+	width:30%;
+	display:table-cell;
+	background-color:#C63;
+}
+#f2c2{
+	width:30%;
+	display:table-cell;
+	background-color:#C66;
+}
+
+#f2c3{
+	width:30%;
+	display:table-cell;
+	background-color:#63F;
+}
+#envoltura{
+	width:80%;
+	margin:0 auto;
+}
+
+a{
+	text-decoration:none;
+	color:#C60;
+}
+
+a:hover{
+	color:#99C;
+	font-weight:bold;
+	font-family:Tahoma, Geneva, sans-serif;
+}
+
+ul{
+	list-style-type:none;
+	width:100%;
+}
+
+li{
+	display:inline-block;
+	width:20%;
+}
+
+#encabezado{
+	width:100%;
+	background-image:url(../img/auto.png);
+	height:250px;
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+body{
+	background-image:url(../img/uno.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+}
+
+img{
+	width:100%;
+}
+
+#footer{
+	background-color:#FFF
+}
+.pie{
+	text-align:center;
+	font-family:"Comic Sans MS", cursive;
+	font-size:18px;
+	font-weight:bold;
+	color:#C39;
+}
+
+h2{
+	text-align:center;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:18px;
+	font-weight:bold;
+	color:#FFF;
+}
+
+p {
+	text-align:center;
+	
+}
